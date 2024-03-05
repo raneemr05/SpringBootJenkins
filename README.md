@@ -1,1 +1,3 @@
-Deploying Spring Boot to K8s using Jenkins CICD
+Deploying Spring Boot to K8s using Jenkins CI/CD
+
+

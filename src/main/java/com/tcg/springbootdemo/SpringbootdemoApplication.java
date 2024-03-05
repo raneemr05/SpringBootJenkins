@@ -11,7 +11,7 @@ public class SpringbootdemoApplication {
 
 	@GetMapping("/")
 	public String home(){
-		return  "Welcome to the springboot dockerized on AWS EKS";
+		return  "Springboot app with maven - CI/CD ";
 	}
 
 	public static void main(String[] args) {
